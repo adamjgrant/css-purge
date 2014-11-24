@@ -1,6 +1,6 @@
 {
   "name": "css-purge-alt",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "A command line Node JS app for the removal of duplicate CSS rules and or properties.",
   "keywords": [
     "css",
